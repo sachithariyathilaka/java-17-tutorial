@@ -14,7 +14,7 @@ Java maven project for Java 17.
     * Release Date: 2025/04/20
     * Module: Java 17 Tutorial
     * Changes
-        * Java 17 sealed class feature implemented.
-        * Java 17 switch statement expressions feature implemented.
-        * Java 17 nullable switch case feature implementations.
-        * Java 17 record feature implementations.
+        * Sealed class feature implemented.
+        * Switch statement expressions feature implemented.
+        * Nullable switch case feature implementations.
+        * Record feature implementations.
