@@ -16,5 +16,5 @@ Java maven project for Java 17.
     * Changes
         * Sealed class feature implemented.
         * Switch statement expressions feature implemented.
-        * Nullable switch case feature implementations.
-        * Record feature implementations.
+        * Nullable switch case feature implemented.
+        * Record feature implemented.
